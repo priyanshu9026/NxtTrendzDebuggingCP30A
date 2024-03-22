@@ -131,3 +131,13 @@ class LoginForm extends Component {
 }
 
 export default LoginForm
+
+    //       <div className="input-container">{this.renderUsernameField()}</div>
+    //       <div className="input-container">{this.renderPasswordField()}</div>
+    //       <button type="submit" className="login-button">
+    //         Login
+    //       </button>
+    //       {showSubmitError && <p className="error-message">*{errorMsg}</p>}
+    //     </form>
+    //   </div>
+    // )
